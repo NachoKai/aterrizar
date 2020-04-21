@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8da7a271bc53078187dc32c13631eab0",
+    "revision": "0fba490a9191362f420e2e4df2957586",
     "url": "/aterrizar/index.html"
   },
   {
-    "revision": "bd0b0a3d4400ee5608f1",
-    "url": "/aterrizar/static/css/main.8de3f545.chunk.css"
+    "revision": "dc7f5179d895e04738bf",
+    "url": "/aterrizar/static/css/main.8acc2290.chunk.css"
   },
   {
     "revision": "c9e798a97ad799b16800",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aterrizar/static/js/2.28560e22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd0b0a3d4400ee5608f1",
-    "url": "/aterrizar/static/js/main.85aa353c.chunk.js"
+    "revision": "dc7f5179d895e04738bf",
+    "url": "/aterrizar/static/js/main.f5f5423b.chunk.js"
   },
   {
     "revision": "1297772cbb79f208c799",
