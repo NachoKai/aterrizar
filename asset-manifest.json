@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/aterrizar/static/css/main.fb8d3868.chunk.css",
-    "main.js": "/aterrizar/static/js/main.6550d5d8.chunk.js",
-    "main.js.map": "/aterrizar/static/js/main.6550d5d8.chunk.js.map",
+    "main.css": "/aterrizar/static/css/main.7f32965a.chunk.css",
+    "main.js": "/aterrizar/static/js/main.684f14ed.chunk.js",
+    "main.js.map": "/aterrizar/static/js/main.684f14ed.chunk.js.map",
     "runtime-main.js": "/aterrizar/static/js/runtime-main.a9a91b66.js",
     "runtime-main.js.map": "/aterrizar/static/js/runtime-main.a9a91b66.js.map",
     "static/js/2.28560e22.chunk.js": "/aterrizar/static/js/2.28560e22.chunk.js",
     "static/js/2.28560e22.chunk.js.map": "/aterrizar/static/js/2.28560e22.chunk.js.map",
     "index.html": "/aterrizar/index.html",
-    "precache-manifest.293b43a9e41054013154a936932782f1.js": "/aterrizar/precache-manifest.293b43a9e41054013154a936932782f1.js",
+    "precache-manifest.fcc67df76071c81cf2aca43b26fe528c.js": "/aterrizar/precache-manifest.fcc67df76071c81cf2aca43b26fe528c.js",
     "service-worker.js": "/aterrizar/service-worker.js",
-    "static/css/main.fb8d3868.chunk.css.map": "/aterrizar/static/css/main.fb8d3868.chunk.css.map",
+    "static/css/main.7f32965a.chunk.css.map": "/aterrizar/static/css/main.7f32965a.chunk.css.map",
     "static/js/2.28560e22.chunk.js.LICENSE.txt": "/aterrizar/static/js/2.28560e22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9a91b66.js",
     "static/js/2.28560e22.chunk.js",
-    "static/css/main.fb8d3868.chunk.css",
-    "static/js/main.6550d5d8.chunk.js"
+    "static/css/main.7f32965a.chunk.css",
+    "static/js/main.684f14ed.chunk.js"
   ]
 }
