@@ -1,0 +1,159 @@
+.module-wrapper {
+  background-color: #eeeeee;
+  padding: 0.5rem;
+}
+
+.module-lead {
+  text-align: center;
+  width: 80px;
+  background: #fa8e04;
+  color: white;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  line-height: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.module-title {
+  margin-bottom: 1rem;
+  color: #444444;
+  font-size: 1.1rem;
+}
+
+.module-link {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.module-label {
+  margin-right: 0.5rem;
+}
+
+.home-ui-card-product {
+  color: #666666;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  line-height: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.carousel-cards {
+  background-color: #fff;
+  border-radius: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.home-ui-card-img {
+  padding: 0;
+}
+
+.card-img {
+  width: 100%;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+.home-ui-card-content {
+  padding: 1rem;
+}
+
+.home-ui-pricebox {
+  padding: 1rem;
+}
+
+.commercial-card {
+  padding: 1rem;
+  border-top: 1px solid #b9b9b9;
+}
+
+.price-description {
+  padding: 1rem;
+  border-top: 1px solid #b9b9b9;
+  color: rgb(92, 92, 92);
+  font-size: 1.2rem;
+}
+
+.home-ui-card-content-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-ui-card-content-row {
+  display: flex;
+}
+
+.home-ui-card-rating {
+  padding: 0.2rem;
+  border-radius: 4px;
+  background-color: #03a691;
+  color: #fff;
+  margin-right: 0.5rem;
+}
+
+.home-ui-card-stars-container {
+  color: #e16c02;
+}
+
+.home-ui-card-drivers-level1-container {
+  margin-top: 0.5rem;
+  color: grey;
+}
+
+.description-text {
+  color: grey;
+  font-size: 1rem;
+}
+
+.prices-text {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.actual-price {
+  margin-right: 0.5rem;
+  color: #000;
+  font-size: 1.5rem;
+}
+
+.old-price {
+  color: grey;
+  font-size: 1.2rem;
+}
+
+.home-ui-card-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #444444;
+  margin-top: 0.5rem;
+}
+
+.list-container {
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+}
+
+@media all and (min-width: 1024px) {
+  .module-wrapper {
+    padding: 2rem;
+  }
+}
+@media all and (min-width: 768px) {
+  .module-wrapper {
+    padding: 1.5rem;
+  }
+}
+@media all and (min-width: 480px) {
+  .module-wrapper {
+    padding: 1rem;
+  }
+}
