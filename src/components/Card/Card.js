@@ -20,10 +20,10 @@ const Card = (props) => {
                   <span>{props.puntaje}</span>
                 </div>
                 <div className="home-ui-card-stars-container">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
+                  <i className="fas fa-star"></i>
+                  <i className="fas fa-star"></i>
+                  <i className="fas fa-star"></i>
+                  <i className="fas fa-star"></i>
                 </div>
               </div>
               <div className="home-ui-card-drivers-level1-container">

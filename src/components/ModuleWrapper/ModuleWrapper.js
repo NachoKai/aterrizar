@@ -16,7 +16,7 @@ const ModuleWrapper = () => {
             </div>
             <a href="#" className="module-link">
               <label className="module-label">Ver más ofertas</label>
-              <i class="fas fa-angle-right"></i>
+              <i className="fas fa-angle-right"></i>
             </a>
           </div>
           <div className="commercial-module__offers"></div>
