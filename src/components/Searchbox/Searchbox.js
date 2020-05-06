@@ -86,7 +86,7 @@ const Searchbox = () => {
               </div>
             </div>
             <div className="sbox-button-container">
-              <a href="#" className="sbox-3-btn">
+              <a href="/" className="sbox-3-btn">
                 <i className="fas fa-search" aria-hidden="true"></i>
                 <label className="button-circle-label">Buscar</label>
               </a>

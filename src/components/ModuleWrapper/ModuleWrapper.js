@@ -14,7 +14,7 @@ const ModuleWrapper = () => {
                 Volvé a soñar, elegí tu próximo alojamiento a precios increíbles
               </h2>
             </div>
-            <a href="#" className="module-link">
+            <a href="/" className="module-link">
               <label className="module-label">Ver más ofertas</label>
               <i className="fas fa-angle-right"></i>
             </a>

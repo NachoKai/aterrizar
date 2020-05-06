@@ -5,9 +5,9 @@ const Card = (props) => {
   return (
     <>
       <li className="carousel-cards">
-        <a href="#" className="home-ui-card">
+        <a href="/" className="home-ui-card">
           <div className="home-ui-card-img">
-            <img className="card-img" src={props.src} />
+            <img className="card-img" alt="" src={props.src} />
           </div>
           <div className="home-ui-card-content">
             <span className="home-ui-card-product">Alojamientos</span>
