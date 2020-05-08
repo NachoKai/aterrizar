@@ -87,22 +87,31 @@
 }
 
 .header-product-item {
+  scroll-snap-align: start;
+  scroll-snap-stop: normal;
   display: flex;
   text-align: center;
   align-items: center;
   justify-content: center;
   min-width: 90px;
+  height: 78px;
+  max-height: 78px;
 }
 
 .header-product-item:active {
+  scroll-snap-align: start;
+  scroll-snap-stop: normal;
   border-bottom: 2px solid #270570;
 }
 
 .header-product-item-last {
+  scroll-snap-align: start;
+  scroll-snap-stop: normal;
   min-width: 180px;
 }
 
 .header-list-products {
+  scroll-snap-type: x mandatory;
   padding: 0 0.5rem;
   display: flex;
   overflow-x: auto;

@@ -18,10 +18,11 @@
   scroll-snap-align: start;
   scroll-snap-stop: normal;
   justify-content: space-between;
+  align-items: center;
   display: flex;
   flex-direction: column;
-  min-width: 250px;
-  max-width: 250px;
+  min-width: 270px;
+  max-width: 270px;
   border-radius: 0.5rem;
   padding: 1rem;
   margin: 0.5rem;
@@ -95,7 +96,8 @@
   .home-ui-banners-mkt-item {
     scroll-snap-align: start;
     scroll-snap-stop: normal;
-    min-width: 250px;
+    align-items: center;
+    min-width: 270px;
     max-width: 600px;
   }
 }
@@ -120,7 +122,8 @@
   .home-ui-banners-mkt-item {
     scroll-snap-align: start;
     scroll-snap-stop: normal;
-    min-width: 250px;
+    align-items: center;
+    min-width: 270px;
     max-width: 400px;
   }
 }
