@@ -44,6 +44,8 @@
 }
 
 .carousel-cards {
+  scroll-snap-align: start;
+  scroll-snap-stop: normal;
   background-color: #fff;
   border-radius: 1rem;
   margin: 1rem 0;
@@ -137,6 +139,7 @@
 }
 
 .list-container {
+  scroll-snap-type: x mandatory;
   display: flex;
   align-items: center;
   overflow-x: auto;
